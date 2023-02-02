@@ -10,7 +10,7 @@ Berri AI is built specifically for the Agent class of [Langchain](https://github
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/17561003/216242793-a5cc6887-3f02-4421-ae2d-1cd0df11c342.gif)
 
 
-## Usage
+## 🤓 Usage
 
 To use Berri AI, follow these steps:
 
@@ -35,6 +35,11 @@ To use Berri AI, follow these steps:
 
 Once deployment is complete, you will receive an email notification. The entire process usually takes 10-15 minutes.
 
-## Support
+## 📚 Examples 
 
-🚨 If you have any questions or need help using Berri AI, join the [Discord](https://discord.gg/KvG3azf39U) or Text/WhatsApp us @ +17708783106 📱.
+1. [Berri LangChain Youtube Agent Example](https://colab.research.google.com/drive/1Do4Utp4crMSpPngDlZOXx30HFmKhtxIF?usp=sharing)
+2. [Berri LangChain Search Agent Example](https://colab.research.google.com/drive/1cB-QfCaKBs2Npe58R60qf-II0wcsT6VQ?usp=sharing)
+
+## 🚨 Support
+
+If you have any questions or need help using Berri AI, join the [Discord](https://discord.gg/KvG3azf39U) or Text/WhatsApp us @ +17708783106 📱.
