@@ -9,6 +9,7 @@ Berri AI is built specifically for the Agent class of [Langchain](https://github
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/17561003/216242793-a5cc6887-3f02-4421-ae2d-1cd0df11c342.gif)
 
+### [Demo Video / Walkthrough](https://www.loom.com/share/fd4375b4a77f4ea7802369cb06a16d43)
 
 ## 🤓 Usage
 
