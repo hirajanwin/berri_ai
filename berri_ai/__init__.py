@@ -1,4 +1,4 @@
-__version__ = '0.14.0'
+__version__ = '0.14.1'
 import ast 
 import re
 import os 
@@ -247,7 +247,7 @@ def deploy(user_email: str):
   try:
     print("Begun deployment..")
     print("🚨 Hit an error? let us know in the Discord (https://discord.gg/KvG3azf39U).")
-    print("🐍 Converting notebook to python and generating requirements.txt")
+    print("🐍 Converting notebook to python and generating requirements.txt, this might take 1-2 minutes.")
     # assume you're in a google colab 
     if not os.path.exists('./berri_files/'):
       os.mkdir("./berri_files/")
