@@ -7,6 +7,10 @@ Berri AI is a python package that helps developers quickly and easily deploy the
 
 Berri AI is built specifically for the Agent class of [Langchain](https://github.com/hwchase17/langchain) framework, a popular Python framework for building LLM Apps.
 
+https://user-images.githubusercontent.com/17561003/216242313-62b2cb6c-8381-440e-a85c-d09b026b7754.mp4
+
+
+
 ## Usage
 
 To use Berri AI, follow these steps:
