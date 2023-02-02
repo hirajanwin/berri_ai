@@ -24,8 +24,6 @@ To use Berri AI, follow these steps:
    ```
 
 3. Initiate the deployment by providing your email address:
-   `deploy(user_email=<your email>)
-   `
    ```
    deploy(user_email=<your email>)
    # example deploy(user_email="ishaan@berri.com")
