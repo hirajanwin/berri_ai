@@ -24,7 +24,7 @@ To use Berri AI, follow these steps:
    ```
 
 3. Initiate the deployment by providing your email address:
-   `    deploy(user_email=<your email>)
+   `deploy(user_email=<your email>)
    `
    Note: Today, berri will look for the initialize_agent() function in your code. If you're using another way of initializing your agent, let us know and we'll update the package to account for that.
 
