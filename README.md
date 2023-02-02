@@ -30,6 +30,6 @@ To use Berri AI, follow these steps:
 
 Once deployment is complete, you will receive an email notification. The entire process usually takes 10-15 minutes.
 
-## Benefits
+## Support
 
-Berri AI allows developers to go from development to production with just a few clicks. Before, developers had to manually configure the environment, making the process time consuming and frustrating. Now, with Berri AI, developers can get their LLM App up and running quickly and easily.
+If you have any questions or need help using Berri AI, join the [Discord](https://discord.gg/KvG3azf39U) or text/WhatsApp us @ +17708783106.
