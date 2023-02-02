@@ -1,4 +1,4 @@
-# 🍇 Berri AI: ⚡️ 1-click deploy for your LLM Apps
+# 🍇 Berri AI: 1-click deploy for your LLM Apps ⚡️
 
 Berri AI is a python package that helps developers quickly and easily deploy their LLM App from Google Colab directly to production. Just install the package, import the function, and run deploy. At the end of the deploy (~10-15mins), you will get: 
 
