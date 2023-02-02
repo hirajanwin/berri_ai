@@ -32,4 +32,4 @@ Once deployment is complete, you will receive an email notification. The entire 
 
 ## Support
 
-If you have any questions or need help using Berri AI, join the [Discord](https://discord.gg/KvG3azf39U) or text/WhatsApp us @ +17708783106.
+🚨 If you have any questions or need help using Berri AI, join the [Discord](https://discord.gg/KvG3azf39U) or text/WhatsApp us @ +17708783106 📱.
